@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="one_video_widget">होम स्क्रीनमध्ये केवळ एक \"<xliff:g id="name" example="video player">%s</xliff:g>\" अनुमती आहे.</string>
+<string name="orientation">ओरिएंटेशन शोधू शकत नाही.</string>
+<string name="shortcut_array_installed"><xliff:g id="count" example="3">%1$d</xliff:g> शॉर्टकट्स निर्माण केलेत.</string>
+<string name="shortcut_install_failed"><xliff:g id="name" example="Xiaoming">%1$s</xliff:g>\" शॉर्टकट बनविण्यात अयशस्वी.</string>
+<string name="shortcut_array_install_failed"><xliff:g id="count" example="3">%1$d</xliff:g> शॉर्टकट्स निर्माण करण्यात अयशस्वी.</string>
+<string name="shortcut_array_duplicate"><xliff:g id="count" example="3">%1$d</xliff:g> शॉर्टकट्स यापूर्वीच अस्तित्वात आहेत.</string>
+<string name="rearrange_app">ॲपला पुन्हा मांडा</string>
+<string name="hideapps">ॲप्स लपवा</string>
+<string name="app_custom_edit">संपादित करा</string>
+<string name="app_custom_hide">लपवा</string>
+<string name="edit_app_button_text">ॲप्स संपादित करा</string>
+<string name="hide_app_button_text">ॲप्स लपवा</string>
+</resources>

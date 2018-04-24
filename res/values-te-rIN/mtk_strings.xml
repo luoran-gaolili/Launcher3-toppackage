@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="one_video_widget">కేవలం ఒక \"<xliff:g id="name" example="video player">%s</xliff:g>\"హోమ్ స్క్రీన్ అనుమతించబడుతుంది.</string>
+<string name="orientation">ఓరిఎంటేషన్ ను డిటెక్ట్ చేయలేదు.</string>
+<string name="shortcut_array_installed"><xliff:g id="count" example="3">%1$d</xliff:g> షార్ట్ కట్ లు సృష్టించబడ్డాయి.</string>
+<string name="shortcut_install_failed">షార్ట్ కట్ \"<xliff:g id="name" example="Xiaoming">%1$s</xliff:g>\" సృష్టించడం విఫలమైంది.</string>
+<string name="shortcut_array_install_failed"><xliff:g id="count" example="3">%1$d</xliff:g> షార్ట్ కట్ లు సృష్టించడంలో విఫలం అయ్యాయి.</string>
+<string name="shortcut_array_duplicate"><xliff:g id="count" example="3">%1$d</xliff:g> షార్ట్ కట్లు ముందే ఉనికిలో ఉన్నాయి.</string>
+<string name="rearrange_app">తిరిగి అమర్చబడిన యాప్</string>
+<string name="hideapps">యాప్స్ ను దాచిపెట్టండి</string>
+<string name="app_custom_edit">సవరించండి</string>
+<string name="app_custom_hide">దాచాలా</string>
+<string name="edit_app_button_text">యాప్ని సవరించండి</string>
+<string name="hide_app_button_text">యాప్స్ ను దాచిపెట్టండి</string>
+</resources>

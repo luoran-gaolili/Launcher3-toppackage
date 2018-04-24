@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+/*
+* Copyright (C) 2008 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="application_name" msgid="5181331383435256801">લૉન્ચર3</string>
+    <string name="folder_name" msgid="7371454440695724752"></string>
+    <string name="work_folder_name" msgid="3753320833950115786">કામ</string>
+    <string name="activity_not_found" msgid="8071924732094499514">એપ ઇન્સ્ટૉલ થઇ નથી.</string>
+    <string name="activity_not_available" msgid="7456344436509528827">એપ ઉપલબ્ધ નથી</string>
+    <string name="safemode_shortcut_error" msgid="9160126848219158407">સેફ મોડમાં ડાઉનલોડ કરેલી એપ્સ નિષ્ક્રિય થઇ ગઇ છે</string>
+    <string name="safemode_widget_error" msgid="4863470563535682004">વિજેટો સેફ મોડમાં નિષ્ક્રિય થયેલ છે</string>
+    <string name="toggle_weight_watcher" msgid="5645299835184636119">મેમ બતાવો</string>
+    <string name="long_press_widget_to_add" msgid="7699152356777458215">એક વિજેટ પિક કરવા માટે સ્પર્શ કરીને અને હોલ્ડ કરો.</string>
+    <string name="widget_dims_format" msgid="2370757736025621599">"%1$d × %2$d"</string>
+    <string name="all_apps_search_bar_hint" msgid="7084713969757597256">એપ્સ શોધો</string>
+    <string name="all_apps_loading_message" msgid="7557140873644765180">એપ્સ લોડ કરી રહ્યા છીએ&#8230;</string>
+    <string name="all_apps_no_search_results" msgid="6332185285860416787">\"<xliff:g id="query" example="Android">%1$s</xliff:g>\" સાથે મૅચ થતી કોઇ એપ્સ મળી નથી</string>
+    <string name="all_apps_search_market_message" msgid="5470761048755751471"><xliff:g id="query" example="Play Store">%1$s</xliff:g> પર જાઓ</string>
+    <string name="out_of_space" msgid="4691004494942118364">આ હોમ સ્ક્રીન પર કોઇ વધુ જગ્યા નથી.</string>
+    <string name="hotseat_out_of_space" msgid="7448809638125333693">મનપસંદ ટ્રે માં કોઇ વધુ જગ્યા નથી</string>
+    <string name="all_apps_button_label" msgid="9110807029020582876">એપ્સ</string>
+    <string name="all_apps_home_button_label" msgid="252062713717058851">હોમ</string>
+    <string name="delete_target_label" msgid="1822697352535677073">કાઢી નાંખો</string>
+    <string name="delete_target_uninstall_label" msgid="5100785476250872595">અનઇન્સ્ટૉલ કરો</string>
+    <string name="info_target_label" msgid="8053346143994679532">એપની માહિતી</string>
+    <string name="permlab_install_shortcut" msgid="5632423390354674437">શોર્ટકટ્સ ઇન્સ્ટૉલ કરો</string>
+    <string name="permdesc_install_shortcut" msgid="923466509822011139">એપને યૂઝરના હસ્તક્ષેપ વિના શૉર્ટક્ટ ઉમેરવાની મંજૂરી આપે છે.</string>
+    <string name="permlab_read_settings" msgid="1941457408239617576">હોમ સેટિંગ્સ અને શૉર્ટકટ્સ વાંચો</string>
+    <string name="permdesc_read_settings" msgid="5833423719057558387">હોમ માં સેટિંગ અને શૉર્ટકટ્સ વાંચવા માટે એપને મંજૂરી આપે છે.</string>
+    <string name="permlab_write_settings" msgid="3574213698004620587">હોમ સેટિંગ્સ અને શૉર્ટકટ્સ લખો</string>
+    <string name="permdesc_write_settings" msgid="5440712911516509985">હોમ માં સેટિંગ અને શૉર્ટકટ્સ બદલવા માટે એપને મંજૂરી આપે છે.</string>
+    <string name="gadget_error_text" msgid="6081085226050792095">વિજેટ લોડ કરવામાં સમસ્યા</string>
+    <string name="gadget_setup_text" msgid="8274003207686040488">સેટ અપ</string>
+    <string name="uninstall_system_app_text" msgid="4172046090762920660">આ એક સિસ્ટમ એપ્લિકેશન છે અને અનઇન્સ્ટૉલ કરી શકાતું નથી.</string>
+    <string name="folder_hint_text" msgid="6617836969016293992">અનામી ફોલ્ડર</string>
+    <string name="default_scroll_format" msgid="7475544710230993317">%1$d માંથી %2$d પેજ</string>
+    <string name="workspace_scroll_format" msgid="8458889198184077399">%1$d માંથી %2$d હોમ સ્ક્રીન</string>
+    <string name="first_run_cling_title" msgid="2459738000155917941">સ્વાગત</string>
+    <string name="migration_cling_title" msgid="9181776667882933767">તમારા એપના આઇકનો કૉપિ કરો</string>
+    <string name="migration_cling_description" msgid="2752413805582227644">તમારા જૂના હોમ સ્ક્રીનો પરથી આઇકનો અને ફોલ્ડરો ઇમ્પોર્ટ કરો?</string>
+    <string name="migration_cling_copy_apps" msgid="946331230090919440">આઇકનો કૉપિ કરો</string>
+    <string name="migration_cling_use_default" msgid="2626475813981258626">નવેસરથી શરૂઆત કરો</string>
+    <string name="workspace_cling_longpress_title" msgid="9173998993909018310">વૉલપેપરો, વિજેટો, અને સેટિંગ્સ</string>
+    <string name="workspace_cling_longpress_description" msgid="4119994475505235248">પૃષ્ઠભૂમિ પર કસ્ટમાઇઝ કરવા માટે સ્પર્શ કરીને હોલ્ડ કરો</string>
+    <string name="workspace_cling_longpress_dismiss" msgid="368660286867640874">સમજાઇ ગયું</string>
+    <string name="folder_opened" msgid="94695026776264709"><xliff:g id="height" example="3">%2$d</xliff:g> દ્વારા<xliff:g id="width" example="5">%1$d</xliff:g>, ફોલ્ડર ખોલાયું છે</string>
+    <string name="folder_tap_to_close" msgid="1884479294466410023">ફોલ્ડર બંધ કરવા સ્પર્શ કરો</string>
+    <string name="folder_tap_to_rename" msgid="9191075570492871147">બદલેલું નામ સેવ કરવા માટે સ્પર્શ કરો</string>
+    <string name="folder_closed" msgid="4100806530910930934">ફોલ્ડર બંધ થઇ ગયું છે</string>
+    <string name="folder_renamed" msgid="1794088362165669656">ફોલ્ડરનું નામ બદલાઇને <xliff:g id="name" example="Games">%1$s</xliff:g> કરાયું છે</string>
+    <string name="folder_name_format" msgid="6629239338071103179">ફોલ્ડર: <xliff:g id="name" example="Games">%1$s</xliff:g></string>
+    <string name="widget_button_text" msgid="2880537293434387943">વિજેટો</string>
+    <string name="wallpaper_button_text" msgid="8404103075899945851">વૉલપેપરો</string>
+    <string name="settings_button_text" msgid="8119458837558863227">સેટિંગ્સ</string>
+    <string name="allow_rotation_title" msgid="2118706734511831751">ફેરવવાને મંજૂરી આપો</string>
+    <string name="package_state_unknown" msgid="7592128424511031410">અજ્ઞાત</string>
+    <string name="abandoned_clean_this" msgid="7610119707847920412">કાઢી નાંખો</string>
+    <string name="abandoned_search" msgid="891119232568284442">શોધો</string>
+    <string name="abandoned_promises_title" msgid="7096178467971716750">એપ ઇન્સટૉલ થયું નથી</string>
+    <string name="abandoned_promise_explanation" msgid="3990027586878167529">આ આઇકન માટની એપ ઇન્સ્ટૉલ થઇ નથી. તમે તેને કાઢી શકો છો, અથવા એપ માટે શોધો અને તેને મૅન્યૂઅલી ઇન્સ્ટૉલ કરી શકો છો.</string>
+    <string name="action_add_to_workspace" msgid="8902165848117513641">હોમ સ્ક્રીન પર ઉમેરો</string>
+    <string name="action_move_here" msgid="2170188780612570250">આઇટમને અહિંયા ખસેડો</string>
+    <string name="item_added_to_workspace" msgid="4211073925752213539">હોમ સ્ક્રીન પર આઇટમને ઉમેરાઇ છે</string>
+    <string name="item_removed" msgid="851119963877842327">આઇટમ કાઢી નંખાઇ છે</string>
+    <string name="action_move" msgid="4339390619886385032">આઇટમ ખસેડો</string>
+    <string name="move_to_empty_cell" msgid="2833711483015685619"><xliff:g id="number" example="1">%1$s</xliff:g>રો અને <xliff:g id="number" example="1">%2$s</xliff:g> કૉલમ પર ખસેડો</string>
+    <string name="move_to_position" msgid="6750008980455459790"><xliff:g id="number" example="1">%1$s</xliff:g> પોઝિશન પર ખસેડો</string>
+    <string name="move_to_hotseat_position" msgid="6295412897075147808"><xliff:g id="number" example="1">%1$s</xliff:g> મનપસંદ પોઝિશન પર ખસેડો</string>
+    <string name="item_moved" msgid="4606538322571412879">આઇટમ ખસેડાઇ છે</string>
+    <string name="add_to_folder" msgid="9040534766770853243">ફોલ્ડર પર ઉમેરો: <xliff:g id="name" example="Games">%1$s</xliff:g></string>
+    <string name="add_to_folder_with_app" msgid="4534929978967147231"><xliff:g id="name" example="Messenger">%1$s</xliff:g> સાથેના ફોલ્ડર પર ઉમેરો</string>
+    <string name="added_to_folder" msgid="4793259502305558003">ફોલ્ડર પર આઇટમને ઉમેરાઇ છે</string>
+    <string name="create_folder_with" msgid="4050141361160214248">આ સાથે ફોલ્ડર બનાવો: <xliff:g id="name" example="Game">%1$s</xliff:g></string>
+    <string name="folder_created" msgid="6409794597405184510">ફોલ્ડર બનાવેલ છે</string>
+    <string name="action_move_to_workspace" msgid="1603837886334246317">હોમ સ્ક્રીન પર ખસેડો</string>
+    <string name="action_move_screen_left" msgid="8854216831569401665">સ્ક્રીનને ડાબી તરફ ખસેડો</string>
+    <string name="action_move_screen_right" msgid="329334910274311123">સ્ક્રીનને જમણી તરફ ખસેડો</string>
+    <string name="screen_moved" msgid="266230079505650577">સ્ક્રીન ખસેડાયું છે</string>
+    <string name="action_resize" msgid="1802976324781771067">રીસાઇઝ કરો</string>
+    <string name="action_increase_width" msgid="8773715375078513326">પહોળાઇ વધારો</string>
+    <string name="action_increase_height" msgid="459390020612501122">ઊંચાઇ વધારો</string>
+    <string name="action_decrease_width" msgid="1374549771083094654">પહોળાઇ ઘટાડો</string>
+    <string name="action_decrease_height" msgid="282377193880900022">ઊંચાઇ ઘટાડો</string>
+    <string name="widget_resized" msgid="9130327887929620">વિજેટ ને <xliff:g id="number" example="2">%1$s</xliff:g> પહેળાઇ <xliff:g id="number" example="1">%2$s</xliff:g> લંબાઇ પર રીસાઇઝ કરાઇ છે</string>
+<string name="choose_wallpaper_type">વૉલપેપરનો પ્રકાર પસંદ કરો</string>
+<string name="lock_screen_wallpaper_type">સ્ક્રીન વૉલપેપર લૉક કરો</string>
+<string name="home_screen_wallpaper_type">હોમ સ્ક્રીનનું વૉલપેપર</string>
+<string name="alphabetical">વર્ણાનુક્રમ</string>
+<string name="most_used">સૌથી વધારે વપરાતું</string>
+<string name="recently_installed">તાજેતરમાં ઇન્સ્ટૉલ થયેલું</string>
+<string name="arrange_by">આ દ્ધારા ક્રમમાં ગોઠવો</string>
+<string name="selece_wallpaper_from">અમાંથી વૉલપેપર પસંદ કરો</string>
+<string name="choose_lock_screen_wallpaper">લૉક સ્ક્રીનનું વૉલપેપર પસંદ કરો</string>
+<string name="choose_home_screen_wallpaper">હોમ સ્ક્રીનનું વૉલપેપર પસંદ કરો</string>
+<string name="choose_from_wallpaper">વૉલપેપર</string>
+<string name="choose_from_gallery">ગૅલેરી</string>
+<string name="choose_from_live_wallpaper">લાઈવ વૉલપેપર</string>
+<string name="choose_from_video_wallpaper">વિડિઓનું વૉલપેપર</string>
+<string name="select_wallpaper">વૉલપેપર પસંદ કરો</string>
+<string name="set_wallpaper">વૉલપેપર સેટ કરો</string>
+<string name="set_wallpaper_successfull">વૉલપેપર સફળતાપૂર્વક સેટ થઈ ગયું છે</string>
+<string name="custom_sort">કસ્ટમ સૉર્ટ</string>
+<string name="add_to_homesreen">હોમ સ્ક્રીન પર ઉમેરો</string>
+<string name="set_home_wallpaper">હોમ વૉલપેપર</string>
+<string name="set_keyguard_wallpaper">વૉલપેપરને લૉક કરો</string>
+<string name="set_both_wallpaper">બંન્ને</string>
+<string name="default_sort">ડિફૉલ્ટ સૉર્ટને રીસ્ટોર કરો</string>
+</resources>

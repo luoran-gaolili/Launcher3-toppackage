@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@android:color/black">
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <include layout="@layout/wallpaper_actionbar"
+        	android:id="@+id/previewbar"/>
+    	<com.android.launcher3.WallpaperGallery 
+        	android:layout_width="match_parent"
+        	android:layout_height="match_parent"
+        	android:id="@+id/wallpaper_preview"
+        	android:gravity="fill"
+        	android:spacing="0dp"
+        	android:paddingTop="2dp"/>
+    </LinearLayout>
+    <Button
+        android:id="@+id/set_wallpaper"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:alpha="0.8"
+        android:text="@string/set_wallpaper" />
+
+</RelativeLayout>

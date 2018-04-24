@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="one_video_widget">ഒന്ന് മാത്രം\"<xliff:g id="name" example="video player">%s</xliff:g>\" ഹോം സ്ക്രീനില്‍ അനുവദനീയം.</string>
+<string name="orientation">ഓറിയൻറേഷൻ കണ്ടെത്താൻ കഴിയില്ല.</string>
+<string name="shortcut_array_installed"><xliff:g id="count" example="3">%1$d</xliff:g> എണ്ണം ഷോര്‍ട്ട്കട്ടുകള്‍ ഉണ്ടാക്കി.</string>
+<string name="shortcut_install_failed">ഷോർട്ട്കട്ട് \"<xliff:g id="name" example="Xiaoming">%1$s</xliff:g>\" ഉണ്ടാക്കൽ ചെയ്യൽ പരാജയം.</string>
+<string name="shortcut_array_install_failed"><xliff:g id="count" example="3">%1$d</xliff:g> എണ്ണം ഷോര്‍ട്ട്കട്ടുകള്‍ ഉണ്ടാക്കുന്നതില്‍ പരാജയപ്പെട്ടു.</string>
+<string name="shortcut_array_duplicate"><xliff:g id="count" example="3">%1$d</xliff:g> എണ്ണം ഷോര്‍ട്ട്കട്ടുകള്‍ ഇതിനകം നിലവിലുണ്ട്.</string>
+<string name="rearrange_app">ആപ് പുനക്രമീകരിക്കുക</string>
+<string name="hideapps">അപ്ലിക്കേഷനുകൾ മറയ്ക്കുക</string>
+<string name="app_custom_edit">എഡിറ്റ്‎ ചെയ്യുക</string>
+<string name="app_custom_hide">മറയ്ക്കുക</string>
+<string name="edit_app_button_text">ആപ്പ്സ് എഡിറ്റ്‌ ചെയ്യുക</string>
+<string name="hide_app_button_text">അപ്ലിക്കേഷനുകൾ മറയ്ക്കുക</string>
+</resources>

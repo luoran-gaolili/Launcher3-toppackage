@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+/*
+* Copyright (C) 2008 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="application_name" msgid="5181331383435256801">లాంచర్3</string>
+    <string name="folder_name" msgid="7371454440695724752"></string>
+    <string name="work_folder_name" msgid="3753320833950115786">వర్క్</string>
+    <string name="activity_not_found" msgid="8071924732094499514">యాప్ ఇన్స్టాల్ చేయబడలేదు.</string>
+    <string name="activity_not_available" msgid="7456344436509528827">యాప్ అందుబాటులో లేదు</string>
+    <string name="safemode_shortcut_error" msgid="9160126848219158407">డౌన్లోడ్ చేయబడిన యాప్ సేఫ్ మోడ్ లో డిసేబుల్ చేయబడింది</string>
+    <string name="safemode_widget_error" msgid="4863470563535682004">విడ్జెట్లను సేఫ్ మోడ్ లో డిసేబుల్ చేయబడింది</string>
+    <string name="toggle_weight_watcher" msgid="5645299835184636119">మేమ్ ని చూపించండి</string>
+    <string name="long_press_widget_to_add" msgid="7699152356777458215">టచ్ మరియు ఒక విడ్జెట్ తీసుకోవడానికి కలిగి ఉండటం.</string>
+    <string name="widget_dims_format" msgid="2370757736025621599">"%1$d × %2$d"</string>
+    <string name="all_apps_search_bar_hint" msgid="7084713969757597256">యాప్స్ ను సెర్చ్ చేయండి</string>
+    <string name="all_apps_loading_message" msgid="7557140873644765180">యాప్స్ లోడ్ అవుతోంది&#8230;</string>
+    <string name="all_apps_no_search_results" msgid="6332185285860416787">మ్యాచింగ్ యాప్ దొరకలేదు\"<xliff:g id="query" example="Android">%1$s</xliff:g>\"</string>
+    <string name="all_apps_search_market_message" msgid="5470761048755751471"><xliff:g id="query" example="Play Store">%1$s</xliff:g> కు వెళ్ళండి</string>
+    <string name="out_of_space" msgid="4691004494942118364">ఈ హోమ్ స్క్రీన్ పై మరిన్నిఎక్కువ గదులు లేవు.</string>
+    <string name="hotseat_out_of_space" msgid="7448809638125333693">ఇష్టమైనవి ట్రే లో మరిన్ని గదులు లేవు</string>
+    <string name="all_apps_button_label" msgid="9110807029020582876">యాప్స్</string>
+    <string name="all_apps_home_button_label" msgid="252062713717058851">హోమ్</string>
+    <string name="delete_target_label" msgid="1822697352535677073">తొలగించండి</string>
+    <string name="delete_target_uninstall_label" msgid="5100785476250872595">అన్‌ఇన్స్టాల్ చేయండి</string>
+    <string name="info_target_label" msgid="8053346143994679532">యాప్ సమాచారం</string>
+    <string name="permlab_install_shortcut" msgid="5632423390354674437">షార్ట్ కట్ ని ఇన్స్టాల్ చేయండి</string>
+    <string name="permdesc_install_shortcut" msgid="923466509822011139">యూజర్ అనుమతి లేకుండా ఒక యాప్ షార్ట్ కట్స్ ను జోడించడానికి అనుమతించండి.</string>
+    <string name="permlab_read_settings" msgid="1941457408239617576">హోమ్ సెట్టింగులు మరియు షార్ట్ కట్లు చదవండి</string>
+    <string name="permdesc_read_settings" msgid="5833423719057558387">యాప్ హోమ్ సెట్టింగులు మరియు షార్ట్కట్స్ చదవడానికి అనుమతిస్తుంది.</string>
+    <string name="permlab_write_settings" msgid="3574213698004620587">హోమ్ సెట్టింగులు మరియు షార్ట్ కట్లను వ్రాయండి</string>
+    <string name="permdesc_write_settings" msgid="5440712911516509985">యాప్ హోమ్ సెట్టింగులు మరియు షార్ట్కట్స్ మార్చడానికి అనుమతిస్తుంది.</string>
+    <string name="gadget_error_text" msgid="6081085226050792095">విడ్జెట్ లోడింగ్ లో సమస్య ఉంది</string>
+    <string name="gadget_setup_text" msgid="8274003207686040488">సెటప్</string>
+    <string name="uninstall_system_app_text" msgid="4172046090762920660">ఈ సిస్టమ్ ను యాప్స్ మరియు అన్ఇన్స్టాల్ చేయలేరు.</string>
+    <string name="folder_hint_text" msgid="6617836969016293992">పేరులేని ఫోల్డర్</string>
+    <string name="default_scroll_format" msgid="7475544710230993317">%1$d యొక్క పేజీ %2$d</string>
+    <string name="workspace_scroll_format" msgid="8458889198184077399">%1$d యొక్క హోమ్ స్క్రీన్ %2$d</string>
+    <string name="first_run_cling_title" msgid="2459738000155917941">స్వాగతం</string>
+    <string name="migration_cling_title" msgid="9181776667882933767">మీ యాప్ ఐకాన్లను కాపీ చేయండి</string>
+    <string name="migration_cling_description" msgid="2752413805582227644">మీ పాత హోమ్ స్క్రీన్స్ నుండి ఐకాన్స్ మరియు ఫోల్డర్స్ ను ఇంపోర్ట్ చేయాలా?</string>
+    <string name="migration_cling_copy_apps" msgid="946331230090919440">ఐకాన్లు కాపీ చేయండి</string>
+    <string name="migration_cling_use_default" msgid="2626475813981258626">స్టార్ట్ ఫ్రెష్</string>
+    <string name="workspace_cling_longpress_title" msgid="9173998993909018310">వాల్ పేపర్లు, విడ్జెట్లు, మరియు సెట్టింగ్లు</string>
+    <string name="workspace_cling_longpress_description" msgid="4119994475505235248">కస్టమైజ్ చేయడానికి బ్యాక్‌గ్రౌండ్ ను తాకండి మరియు హోల్డ్ చేయండి</string>
+    <string name="workspace_cling_longpress_dismiss" msgid="368660286867640874">అర్థమైంది</string>
+    <string name="folder_opened" msgid="94695026776264709">ఫోల్డర్ తెరవబడింది, <xliff:g id="height" example="3">%2$d</xliff:g> ద్వారా <xliff:g id="width" example="5">%1$d</xliff:g></string>
+    <string name="folder_tap_to_close" msgid="1884479294466410023">టచ్ చేసి ఫోల్డర్ ను మూసివేయండి</string>
+    <string name="folder_tap_to_rename" msgid="9191075570492871147">రీనేమ్ సేవ్ చేయడానికి తాకండి</string>
+    <string name="folder_closed" msgid="4100806530910930934">ఫోల్డర్ మూసివేయబడింది</string>
+    <string name="folder_renamed" msgid="1794088362165669656"><xliff:g id="name" example="Games">%1$s</xliff:g> కి ఫోల్డర్ పేరుమార్చబడింది</string>
+    <string name="folder_name_format" msgid="6629239338071103179">ఫోల్డర్: <xliff:g id="name" example="Games">%1$s</xliff:g></string>
+    <string name="widget_button_text" msgid="2880537293434387943">విడ్జెట్లు</string>
+    <string name="wallpaper_button_text" msgid="8404103075899945851">వాల్పేపర్లు</string>
+    <string name="settings_button_text" msgid="8119458837558863227">సెట్టింగ్లు</string>
+    <string name="allow_rotation_title" msgid="2118706734511831751">రొటేషన్ అనుమతించండి</string>
+    <string name="package_state_unknown" msgid="7592128424511031410">తెలియని</string>
+    <string name="abandoned_clean_this" msgid="7610119707847920412">తొలగించండి</string>
+    <string name="abandoned_search" msgid="891119232568284442">శోధించండి</string>
+    <string name="abandoned_promises_title" msgid="7096178467971716750">ఈ యాప్ ఇన్స్టాల్ చేయబడలేదు</string>
+    <string name="abandoned_promise_explanation" msgid="3990027586878167529">ఈ ఐకాన్ కోసం యాప్ ఇన్స్టాల్ చేయబడలేదు. మీరు దాన్ని తొలగించవచ్చు, లేదా యాప్ కోసం సెర్చ్ చేయండి మరియు దాన్ని మాన్యువల్ గా ఇన్స్టాల్ చేయండి.</string>
+    <string name="action_add_to_workspace" msgid="8902165848117513641">హోమ్ స్క్రీన్ని జోడించండి</string>
+    <string name="action_move_here" msgid="2170188780612570250">ఇక్కడ ఐటెమ్ని తరలించండి</string>
+    <string name="item_added_to_workspace" msgid="4211073925752213539">హోమ్ స్క్రీన్ కి ఐటెమ్ జోడించబడింది</string>
+    <string name="item_removed" msgid="851119963877842327">ఐటెమ్ తొలగించబడింది</string>
+    <string name="action_move" msgid="4339390619886385032">ఐటెమ్ని తరలించండి</string>
+    <string name="move_to_empty_cell" msgid="2833711483015685619">రో<xliff:g id="number" example="1">%1$s</xliff:g> కాలమ్ <xliff:g id="number" example="1">%2$s</xliff:g> కు తరలించండి</string>
+    <string name="move_to_position" msgid="6750008980455459790">పొజిషన్ <xliff:g id="number" example="1">%1$s</xliff:g> కు తరలించండి</string>
+    <string name="move_to_hotseat_position" msgid="6295412897075147808">ఇష్టమైన స్థానానికి <xliff:g id="number" example="1">%1$s</xliff:g> తరలించండి</string>
+    <string name="item_moved" msgid="4606538322571412879">ఐటెమ్ తరలించబడింది</string>
+    <string name="add_to_folder" msgid="9040534766770853243">ఫోల్డర్ కు జోడించండి: <xliff:g id="name" example="Games">%1$s</xliff:g></string>
+    <string name="add_to_folder_with_app" msgid="4534929978967147231"><xliff:g id="name" example="Messenger">%1$s</xliff:g> తో ఫోల్డర్ కు జోడించండి</string>
+    <string name="added_to_folder" msgid="4793259502305558003">ఫోల్డర్ కి ఐటెమ్ జోడించబడింది</string>
+    <string name="create_folder_with" msgid="4050141361160214248">ఫోల్డర్ ను సృష్టించండి: <xliff:g id="name" example="Game">%1$s</xliff:g></string>
+    <string name="folder_created" msgid="6409794597405184510">ఫోల్డర్ సృష్టించబడింది</string>
+    <string name="action_move_to_workspace" msgid="1603837886334246317">హోమ్ స్క్రీన్ కు తరలించండి</string>
+    <string name="action_move_screen_left" msgid="8854216831569401665">ఎడమ వైపుకి స్క్రీన్ని తరలించండి</string>
+    <string name="action_move_screen_right" msgid="329334910274311123">కుడి వైపుకి స్క్రీన్ని తరలించండి</string>
+    <string name="screen_moved" msgid="266230079505650577">స్క్రీన్ తరలించబడింది</string>
+    <string name="action_resize" msgid="1802976324781771067">రిసైజు చేయండి</string>
+    <string name="action_increase_width" msgid="8773715375078513326">వెడల్పు ని పెంచండి</string>
+    <string name="action_increase_height" msgid="459390020612501122">ఎత్తును పెంచండి</string>
+    <string name="action_decrease_width" msgid="1374549771083094654">వెడల్పు ని తగ్గించండి</string>
+    <string name="action_decrease_height" msgid="282377193880900022">ఎత్తును తగ్గించండి</string>
+    <string name="widget_resized" msgid="9130327887929620">వెడల్పు <xliff:g id="number" example="2">%1$s</xliff:g> ఎత్తు <xliff:g id="number" example="1">%2$s</xliff:g> కి విడ్జెట్ రీసైజు చేయబడింది</string>
+<string name="choose_wallpaper_type">వాల్పేపర్ టైప్ని ఎంచుకోండి</string>
+<string name="lock_screen_wallpaper_type">లాక్ స్క్రీన్ వాల్పేపర్</string>
+<string name="home_screen_wallpaper_type">హోమ్ స్క్రీన్ వాల్పేపర్</string>
+<string name="alphabetical">ఆల్ఫాబెటికల్</string>
+<string name="most_used">అత్యంత ఎక్కువ వినియోగించిబడినది</string>
+<string name="recently_installed">ఇటీవల ఇన్స్టాల్ చేయబడింది</string>
+<string name="arrange_by">ద్వారా అమర్చండి</string>
+<string name="selece_wallpaper_from">నుండి వాల్ పేపర్ ని ఎంచుకోండి</string>
+<string name="choose_lock_screen_wallpaper">లాక్ స్క్రీన్ వాల్ పేపర్ ని ఎంచుకోండి</string>
+<string name="choose_home_screen_wallpaper">హోమ్ స్క్రీన్ వాల్ పేపర్ ని ఎంచుకోండి</string>
+<string name="choose_from_wallpaper">వాల్ పేపర్</string>
+<string name="choose_from_gallery">గ్యాలరీ</string>
+<string name="choose_from_live_wallpaper">లైవ్ వాల్పేపర్</string>
+<string name="choose_from_video_wallpaper">వీడియో వాల్ పేపర్ లు</string>
+<string name="select_wallpaper">వాల్పేపర్ ను ఎంచుకోండి</string>
+<string name="set_wallpaper">వాల్ పేపర్ ని సెట్ చేయండి</string>
+<string name="set_wallpaper_successfull">విజయవంతంగా వాల్పేపర్‌ని సెట్ చేయండి</string>
+<string name="custom_sort">కస్టమ్ సార్ట్</string>
+<string name="add_to_homesreen">హోమ్ స్క్రీన్ని జోడించండి</string>
+<string name="set_home_wallpaper">హోమ్ వాల్పేపర్</string>
+<string name="set_keyguard_wallpaper">లాక్ వాల్పేపర్</string>
+<string name="set_both_wallpaper">బోథ్</string>
+<string name="default_sort">డిఫాల్ట్ సార్ట్ ని రీస్టోర్ చేయండి</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="one_video_widget">ኣብ ዋና ገፅ ሓደ \"<xliff:g id="name" example="video player">%s</xliff:g>\" ጥራሕ ዝተፈቐደ፡፡</string>
+<string name="orientation">ሓበሬታ ገፅ ምርኻብ ኣይከኣለን፡፡</string>
+<string name="shortcut_array_installed"><xliff:g id="count" example="3">%1$d</xliff:g> ሓፀርቲ መንገዲታት ተፈጢሮም፡፡</string>
+<string name="shortcut_install_failed">ሓፂር መንገዲ \"<xliff:g id="name" example="Xiaoming">%1$s</xliff:g>\" ምፍጣር ኣቢዩ፡፡</string>
+<string name="shortcut_array_install_failed"><xliff:g id="count" example="3">%1$d</xliff:g> ሓፀርቲ መንገዲታት ምፍጣር ኣብዮም፡፡</string>
+<string name="shortcut_array_duplicate"><xliff:g id="count" example="3">%1$d</xliff:g> ቅድም ኢሉ ዘለዎ ሓፂር መንገዲ፡፡</string>
+<string name="rearrange_app">ዓውደ ሙያታት ደጊሞም ይደርድሩ</string>
+<string name="hideapps">ዓውደ ሙያታት ሕባእ</string>
+<string name="app_custom_edit">ኣርም</string>
+<string name="app_custom_hide">ሕባእ</string>
+<string name="edit_app_button_text">ዓውደ ሞያታት ምስትኽኻል</string>
+<string name="hide_app_button_text">ዓውድ ሞያ ሕባእ</string>
+</resources>

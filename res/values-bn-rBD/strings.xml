@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+/*
+* Copyright (C) 2008 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="application_name" msgid="5181331383435256801">লঞ্চার3</string>
+    <string name="folder_name" msgid="7371454440695724752"></string>
+    <string name="work_folder_name" msgid="3753320833950115786">ওয়ার্ক</string>
+    <string name="activity_not_found" msgid="8071924732094499514">অ্যাপটি ইনস্টল করা নেই.</string>
+    <string name="activity_not_available" msgid="7456344436509528827">অ্যাপ অনুপলব্ধ</string>
+    <string name="safemode_shortcut_error" msgid="9160126848219158407">ডাউনলোড হওয়া অ্যাপ সেফ মোডে নিষ্ক্রিয় করা আছে</string>
+    <string name="safemode_widget_error" msgid="4863470563535682004">সেফ মোডে উইজেট নিষ্ক্রিয়</string>
+    <string name="toggle_weight_watcher" msgid="5645299835184636119">মেম দেখান</string>
+    <string name="long_press_widget_to_add" msgid="7699152356777458215">উইজেট তোলার জন্য টাচ করে ধরে থাকুন।.</string>
+    <string name="widget_dims_format" msgid="2370757736025621599">"%1$d × %2$d"</string>
+    <string name="all_apps_search_bar_hint" msgid="7084713969757597256">অ্যাপ সার্চ করুন</string>
+    <string name="all_apps_loading_message" msgid="7557140873644765180">অ্যাপ লোড হচ্ছে&#8230;</string>
+    <string name="all_apps_no_search_results" msgid="6332185285860416787">\"<xliff:g id="query" example="Android">%1$s</xliff:g>\" এর সঙ্গে মেলে এমন কোনো অ্যাপ খুঁজে পাওয়া যায়নি</string>
+    <string name="all_apps_search_market_message" msgid="5470761048755751471"><xliff:g id="query" example="Play Store">%1$s</xliff:g>-এ যান</string>
+    <string name="out_of_space" msgid="4691004494942118364">এই হোম স্ক্রীনে আর জায়গা নেই.</string>
+    <string name="hotseat_out_of_space" msgid="7448809638125333693">প্রিয় ট্রেতে কোন জায়গা নেই</string>
+    <string name="all_apps_button_label" msgid="9110807029020582876">অ্যাপ</string>
+    <string name="all_apps_home_button_label" msgid="252062713717058851">হোম</string>
+    <string name="delete_target_label" msgid="1822697352535677073">রিমুভ করুন</string>
+    <string name="delete_target_uninstall_label" msgid="5100785476250872595">আনইনস্টল করুন</string>
+    <string name="info_target_label" msgid="8053346143994679532">অ্যাপ সম্পর্কিত তথ্য</string>
+    <string name="permlab_install_shortcut" msgid="5632423390354674437">শর্ট কাট ইনস্টল করুন</string>
+    <string name="permdesc_install_shortcut" msgid="923466509822011139">অ্যাপটি ইউজারের হস্তক্ষেপ ছাড়াই শর্টকাট যুক্ত করতে অনুমতি দেয়।.</string>
+    <string name="permlab_read_settings" msgid="1941457408239617576">হোম সেটিং এবং শর্টকাট পড়ুন</string>
+    <string name="permdesc_read_settings" msgid="5833423719057558387">হোমে থাকা সেটিং এবং শর্টকার্ট পড়ার জন্য অ্যাপকে অনুমতি দিন।.</string>
+    <string name="permlab_write_settings" msgid="3574213698004620587">হোম সেটিং এবং শর্টকাট লিখুন</string>
+    <string name="permdesc_write_settings" msgid="5440712911516509985">হোমে থাকা সেটিং এবং শর্টকার্ট পরিবর্তনের জন্য অ্যাপকে অনুমতি দিন।.</string>
+    <string name="gadget_error_text" msgid="6081085226050792095">উইজেট লোড করায় সমস্যা হচ্ছে</string>
+    <string name="gadget_setup_text" msgid="8274003207686040488">সেটআপ</string>
+    <string name="uninstall_system_app_text" msgid="4172046090762920660">এটি একটি সিস্টেম অ্যাপ, এটি ইনস্টল করা যাবে না।.</string>
+    <string name="folder_hint_text" msgid="6617836969016293992">বেনামী ফোল্ডার</string>
+    <string name="default_scroll_format" msgid="7475544710230993317">%1$d-র পেজ নম্বর %2$d</string>
+    <string name="workspace_scroll_format" msgid="8458889198184077399">%1$d-র হোম স্ক্রীন %2$d</string>
+    <string name="first_run_cling_title" msgid="2459738000155917941">স্বাগত</string>
+    <string name="migration_cling_title" msgid="9181776667882933767">আপনার অ্যাপ আইকন কপি করুন</string>
+    <string name="migration_cling_description" msgid="2752413805582227644">আপনার পুরনো হোম স্ক্রীন থেকে আইকন এবং ফোল্ডার ইমপোর্ট করবেন?</string>
+    <string name="migration_cling_copy_apps" msgid="946331230090919440">আইকনগুলি কপি করুন</string>
+    <string name="migration_cling_use_default" msgid="2626475813981258626">প্রথম থেকে শুরু করুন</string>
+    <string name="workspace_cling_longpress_title" msgid="9173998993909018310">ওয়ালপেপার, উইজেট, ও সেটিংস</string>
+    <string name="workspace_cling_longpress_description" msgid="4119994475505235248">কাস্টমাইজ করার জন্য ব্যাকগ্রাউণ্ডে টাচ করে ধরে থাকুন</string>
+    <string name="workspace_cling_longpress_dismiss" msgid="368660286867640874">বুঝতে পেরেছি</string>
+    <string name="folder_opened" msgid="94695026776264709"><xliff:g id="width" example="5">%1$d</xliff:g> দিয়ে <xliff:g id="height" example="3">%2$d</xliff:g> ফোল্ডার খোল হয়েছে</string>
+    <string name="folder_tap_to_close" msgid="1884479294466410023">ফোল্ডার বন্ধ করার জন্য টাচ করুন</string>
+    <string name="folder_tap_to_rename" msgid="9191075570492871147">বদলানো নাম সেভ করার জন্য টাচ করুন</string>
+    <string name="folder_closed" msgid="4100806530910930934">বন্ধ ফোল্ডার</string>
+    <string name="folder_renamed" msgid="1794088362165669656">ফোল্ডারের নাম বদলে <xliff:g id="name" example="Games">%1$s</xliff:g> করা হয়েছে</string>
+    <string name="folder_name_format" msgid="6629239338071103179">ফোল্ডার: <xliff:g id="name" example="Games">%1$s</xliff:g></string>
+    <string name="widget_button_text" msgid="2880537293434387943">উইজেট</string>
+    <string name="wallpaper_button_text" msgid="8404103075899945851">ওয়ালপেপার</string>
+    <string name="settings_button_text" msgid="8119458837558863227">সেটিং</string>
+    <string name="allow_rotation_title" msgid="2118706734511831751">রোটেশন করার অনুমতি দিন</string>
+    <string name="package_state_unknown" msgid="7592128424511031410">অজ্ঞাত</string>
+    <string name="abandoned_clean_this" msgid="7610119707847920412">রিমুভ করুন</string>
+    <string name="abandoned_search" msgid="891119232568284442">সার্চ করুন</string>
+    <string name="abandoned_promises_title" msgid="7096178467971716750">এই অ্যাপ ইনস্টল করা নেই</string>
+    <string name="abandoned_promise_explanation" msgid="3990027586878167529">এই আইকনের অ্যাপ ইনস্টল করা নেই. আপনি এটি সরিয়ে দিতে পারেন বা অ্যাপটি খুঁজে ম্যানুয়ালভাবে ইনস্টল করতে পারেন.</string>
+    <string name="action_add_to_workspace" msgid="8902165848117513641">হোম স্ক্রীনের সাথে যোগ করুন</string>
+    <string name="action_move_here" msgid="2170188780612570250">আইটেম এখানে সরান</string>
+    <string name="item_added_to_workspace" msgid="4211073925752213539">হোম স্ক্রীনে আইটেম যোগ করুন</string>
+    <string name="item_removed" msgid="851119963877842327">আইটেম রিমুভ করা হয়েছে</string>
+    <string name="action_move" msgid="4339390619886385032">আইটেম সরান</string>
+    <string name="move_to_empty_cell" msgid="2833711483015685619">রো <xliff:g id="number" example="1">%1$s</xliff:g> কলাম <xliff:g id="number" example="1">%2$s</xliff:g>-এ সরান</string>
+    <string name="move_to_position" msgid="6750008980455459790">পজিশন <xliff:g id="number" example="1">%1$s</xliff:g>-তে সরান</string>
+    <string name="move_to_hotseat_position" msgid="6295412897075147808">পছন্দের পজিশন <xliff:g id="number" example="1">%1$s</xliff:g>-এ সরান</string>
+    <string name="item_moved" msgid="4606538322571412879">আইটেম সরানো হয়েছে</string>
+    <string name="add_to_folder" msgid="9040534766770853243">ফোল্ডারে যোগ করুন: <xliff:g id="name" example="Games">%1$s</xliff:g></string>
+    <string name="add_to_folder_with_app" msgid="4534929978967147231"><xliff:g id="name" example="Messenger">%1$s</xliff:g> এর সঙ্গে ফোল্ডারে যোগ করুন</string>
+    <string name="added_to_folder" msgid="4793259502305558003">ফোল্ডারে আইটেম যোগ করুন</string>
+    <string name="create_folder_with" msgid="4050141361160214248">এর সঙ্গে ফোল্ডার তৈরি করুন: <xliff:g id="name" example="Game">%1$s</xliff:g></string>
+    <string name="folder_created" msgid="6409794597405184510">ফোল্ডার তৈরি হয়েছে</string>
+    <string name="action_move_to_workspace" msgid="1603837886334246317">হোম স্ক্রীনে সরান</string>
+    <string name="action_move_screen_left" msgid="8854216831569401665">বামদিকে স্ক্রীন সরান</string>
+    <string name="action_move_screen_right" msgid="329334910274311123">ডানদিকে স্ক্রীন সরান</string>
+    <string name="screen_moved" msgid="266230079505650577">স্ক্রীন সরানো হয়েছে</string>
+    <string name="action_resize" msgid="1802976324781771067">পুনরায় সাইজ করুন</string>
+    <string name="action_increase_width" msgid="8773715375078513326">প্রস্থ বৃদ্ধি করুন</string>
+    <string name="action_increase_height" msgid="459390020612501122">উচ্চতা বাড়ান</string>
+    <string name="action_decrease_width" msgid="1374549771083094654">কম প্রস্থ</string>
+    <string name="action_decrease_height" msgid="282377193880900022">উচ্চতা কমান</string>
+    <string name="widget_resized" msgid="9130327887929620">উইজেট চওড়ায় <xliff:g id="number" example="2">%1$s</xliff:g> লম্বায় <xliff:g id="number" example="1">%2$s</xliff:g>-তে রিসাইজ করা হয়েছে</string>
+<string name="choose_wallpaper_type">ওয়ালপেপারের প্রকার নির্বাচন করুন</string>
+<string name="lock_screen_wallpaper_type">লক স্ক্রীন ওয়ালপেপার</string>
+<string name="home_screen_wallpaper_type">হোম স্ক্রীন ওয়ালপেপার</string>
+<string name="alphabetical">বর্ণমালানুক্রমে</string>
+<string name="most_used">সর্বাধিক ব্যবহৃত</string>
+<string name="recently_installed">সম্প্রতি ইনস্টল করা</string>
+<string name="arrange_by">অ্যারেঞ্জ</string>
+<string name="selece_wallpaper_from">এখান থেকে ওয়ালপেপার নির্বাচন করুন</string>
+<string name="choose_lock_screen_wallpaper">লক স্ক্রীন ওয়ালপেপার চয়ন করুন</string>
+<string name="choose_home_screen_wallpaper">হোম স্ক্রীন ওয়ালপেপার চয়ন করুন</string>
+<string name="choose_from_wallpaper">ওয়ালপেপার</string>
+<string name="choose_from_gallery">গ্যালারি</string>
+<string name="choose_from_live_wallpaper">লাইভ ওয়ালপেপার</string>
+<string name="choose_from_video_wallpaper">ভিডিও ওয়ালপেপার</string>
+<string name="select_wallpaper">ওয়ালপেপার নির্বাচন করুন</string>
+<string name="set_wallpaper">ওয়ালপেপার সেট করুন</string>
+<string name="set_wallpaper_successfull">ওয়ালপেপার সেট করতে সফল</string>
+<string name="custom_sort">কাস্টমভাবে সাজান</string>
+<string name="add_to_homesreen">হোম স্ক্রীনের সাথে যোগ করুন</string>
+<string name="set_home_wallpaper">হোম ওয়ালপেপার</string>
+<string name="set_keyguard_wallpaper">লক ওয়ালপেপার</string>
+<string name="set_both_wallpaper">উভয়</string>
+<string name="default_sort">ডিফল্ট বাছাই রিস্টোর করুন</string>
+</resources>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="application_name">Jalqabsisa3</string>
+<string name="work_folder_name">Hojji</string>
+<string name="activity_not_found">App hin fe\'amne.</string>
+<string name="activity_not_available">App hin argamuu</string>
+<string name="safemode_shortcut_error">App buffaman tofita nagga irrati hin hojjatan</string>
+<string name="safemode_widget_error">Wiidijeti hojji dhabsiisi hallata nagenya</string>
+<string name="toggle_weight_watcher">Miseenssota agarsiisi</string>
+<string name="long_press_widget_to_add">Wijeetii filachuuf tuqi &amp; qabi.</string>
+<string name="all_apps_search_bar_hint">Apps barbadif tajaajjilan</string>
+<string name="all_apps_loading_message">Appota&#8230; fe\'a jira</string>
+<string name="all_apps_no_search_results">App walfakkatu hin argamne  \"<xliff:g id="query" example="Android">%1$s</xliff:g>\"</string>
+<string name="all_apps_search_market_message">Garra <xliff:g id="query" example="Play Store">%1$s</xliff:g>demmi</string>
+<string name="out_of_space">Argiiwwan ka\'umsa kana irraa kutan dabalata hin jiru.</string>
+<string name="hotseat_out_of_space">Tirii fillatamof kuttan hin jirru</string>
+<string name="all_apps_button_label">Apps</string>
+<string name="all_apps_home_button_label">Ka\'umsa</string>
+<string name="delete_target_label">Balleessi</string>
+<string name="delete_target_uninstall_label">Ballessii</string>
+<string name="info_target_label">Odeffanoo app</string>
+<string name="permlab_install_shortcut">Qaxamurtoota fe\'i</string>
+<string name="permdesc_install_shortcut">Giddu galumsa kettin allati akka appn qaxxamura idda\'uf eyyami.</string>
+<string name="permlab_read_settings">Hojimaatawwan ka\'umsa fi qaxxaamuroota dubbisi</string>
+<string name="permdesc_read_settings">Giddu galumsa kettin allati akka appn qaxxamura fi hojjimatota dubbisuf eyyami.</string>
+<string name="permlab_write_settings">Hojimaatawwan ka\'umsa fi qaxxaamuroota barreessi</string>
+<string name="permdesc_write_settings">Appn akka hojjimata fi ka\'umsa irrati akka qaxxamura jijjiruf eyyami.</string>
+<string name="gadget_error_text">Rakkoo wijeetii fe\'uu</string>
+<string name="gadget_setup_text">Qinda\'ina</string>
+<string name="uninstall_system_app_text">Kuni app sirna waan taheef fe\'umsa haqu hin danda\'amu.</string>
+<string name="folder_hint_text">Ukaankaa hin moggaafamne</string>
+<string name="default_scroll_format">Fuula %1$d  %2$d keessa</string>
+<string name="workspace_scroll_format">Argii ka\'umsa %1$d %2$d keessa</string>
+<string name="first_run_cling_title">Baga nagaan dhufte</string>
+<string name="migration_cling_title">Sajoowaan app garagalchi</string>
+<string name="migration_cling_description">Argiiwaan ka\'umsa durri irra sajoo fi ukaanka alaaguu?</string>
+<string name="migration_cling_copy_apps">SAJOWAAN GARAGALCHI</string>
+<string name="migration_cling_use_default">HARRA JALQABBI</string>
+<string name="workspace_cling_longpress_title">Bifgarddubbee foodda, wiidijeti, fi hojjimatawaan</string>
+<string name="workspace_cling_longpress_description">Duddubbaa mijjesuf tuqqi &amp; akkasumas qabbi turri</string>
+<string name="workspace_cling_longpress_dismiss">Argadhera</string>
+<string name="folder_opened">Ukaankii banamera , <xliff:g id="width" example="5">%1$d</xliff:g>  <xliff:g id="height" example="3">%2$d</xliff:g> dhan</string>
+<string name="folder_tap_to_close">Ukaankaa cufuuf tuqi</string>
+<string name="folder_tap_to_rename">Deebiste moggaaste kuusuuf tuqi</string>
+<string name="folder_closed">Ukaankii cufamera</string>
+<string name="folder_renamed">Ukaankii gara <xliff:g id="name" example="Games">%1$s</xliff:g> deebisame moggaasamera</string>
+<string name="folder_name_format">Ukaankaa: <xliff:g id="name" example="Games">%1$s</xliff:g></string>
+<string name="widget_button_text">Wijeetiiwwan</string>
+<string name="wallpaper_button_text">Bifgarduubewwan fooda</string>
+<string name="settings_button_text">Hojimatawwan</string>
+<string name="allow_rotation_title">Nannesuu eyyamii</string>
+<string name="package_state_unknown">Hin bekkamu</string>
+<string name="abandoned_clean_this">Balleessi</string>
+<string name="abandoned_search">Barbadii</string>
+<string name="abandoned_promises_title">App kun hin fe\'amine</string>
+<string name="abandoned_promise_explanation">Appn sajoo kana hin fe\'amne. Haqqu ni dandessa app barbaddi harkaan fe\'ii.</string>
+<string name="action_add_to_workspace">Gara argii ka\'umsatti dabali</string>
+<string name="action_move_here">Wanta assiti sochossi</string>
+<string name="item_added_to_workspace">Wantii fulla ka\'umsa irrati ida\'amera</string>
+<string name="item_removed">Wantii haqqamera</string>
+<string name="action_move">Wanta sochossi</string>
+<string name="move_to_empty_cell">Garra tarree <xliff:g id="number" example="1">%1$s</xliff:g>    tarjaa <xliff:g id="number" example="1">%2$s</xliff:g> sochossi</string>
+<string name="move_to_position">Garra kallati <xliff:g id="number" example="1">%1$s</xliff:g> sochossi</string>
+<string name="move_to_hotseat_position"><xliff:g id="number" example="1">%1$s</xliff:g> garra kallati fillatamati sochossi</string>
+<string name="item_moved">Wantii sochossamera</string>
+<string name="add_to_folder">Unkaa: <xliff:g id="name" example="Games">%1$s</xliff:g> ti ida\'i.</string>
+<string name="add_to_folder_with_app">Unkatii <xliff:g id="name" example="Messenger">%1$s</xliff:g> kanan ida\'i.</string>
+<string name="added_to_folder">Wantii ukaankati ida\'amera</string>
+<string name="create_folder_with">Unkaa  <xliff:g id="name" example="Game">%1$s</xliff:g> waliin umii</string>
+<string name="folder_created">Ukaanki ummamera</string>
+<string name="action_move_to_workspace">Garra argii ka\'umsatti sochossi</string>
+<string name="action_move_screen_left">Argii garra bittati sochossi</string>
+<string name="action_move_screen_right">Argii garra mirgatti sochossi</string>
+<string name="screen_moved">Argiin socho\'era</string>
+<string name="action_resize">Hanga sirreessi</string>
+<string name="action_increase_width">Ballina dabbali</string>
+<string name="action_increase_height">Hojja dabbali</string>
+<string name="action_decrease_width">Balinaa gadii busii</string>
+<string name="action_decrease_height">Dherinaa gadii busii</string>
+<string name="widget_resized">Widjettin ballinan debbise mijjefamera  <xliff:g id="number" example="2">%1$s</xliff:g> hojja <xliff:g id="number" example="1">%2$s</xliff:g></string>
+</resources>

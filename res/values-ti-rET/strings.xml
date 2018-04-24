@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="application_name">መጀመሪ3</string>
+<string name="work_folder_name">ስራሕ</string>
+<string name="activity_not_found">ዝተፅዓነ ዓውደ ሙያ የለን፡፡</string>
+<string name="activity_not_available">ዓዉደሞያ የለን</string>
+<string name="safemode_shortcut_error">እቲ ዓዉደ ሞያ ዝርዝር ቲቪ እትሪኦ ፕሮግራም ምንባብን ምፅሓፍን ይፈቅድ፡፡ተንኮለኛ ዓዉደ ሞያታት ምናልባት ናይ ዉልቀ ቲቪ ታሪካ ክእክብ ይኽእል</string>
+<string name="safemode_widget_error">ዋጄታት ኣብ ሕልዉ ሞድ ንከይሰርሑ  ተገይሮም</string>
+<string name="toggle_weight_watcher">ሜም ምርኣይ</string>
+<string name="long_press_widget_to_add">ንኻእ ን ዊጄት ንምልዓል ሓዝ</string>
+<string name="all_apps_search_bar_hint">ዓዉደሞያታት ምድላይ</string>
+<string name="all_apps_loading_message">ዓዉደሞያ ኣብምፅዓን&#8230;</string>
+<string name="all_apps_no_search_results">ዝመሳሰሉ ዓዉደሞያታት ኣይተረኸቡን\"<xliff:g id="query" example="Android">%1$s</xliff:g>\"</string>
+<string name="all_apps_search_market_message">ኪድ ናብ <xliff:g id="query" example="Play Store">%1$s</xliff:g></string>
+<string name="out_of_space">ኣብዚ ናይ መጀመርታ ገፅ ስከሪን ዚያዳ ክፍሊ የለን፡፡</string>
+<string name="hotseat_out_of_space">ኣብ ተፈታዊ ፈተነ ተወሳኺ ክፍሊ የለን</string>
+<string name="all_apps_button_label">ዓዉደሞያታት</string>
+<string name="all_apps_home_button_label">ናይ መጀመርታ</string>
+<string name="delete_target_label">ምዉጋድ</string>
+<string name="delete_target_uninstall_label">ኣራግፍ</string>
+<string name="info_target_label">መርዳእታ ዓውደሞያ</string>
+<string name="permlab_install_shortcut">ሓፀርቲ መንገዲታት ፅዓን</string>
+<string name="permdesc_install_shortcut">ብዘይናይ ተጠቃሚ  ጣልቃ ምእታዉሓፀርቲ ንምዉሳኽ ንምዉጋድ  ዓዉደሞያ ፍቀድ</string>
+<string name="permlab_read_settings">ናይ መጀመርታ ገፅን ሓፂር መንገዲ ስንድኦትን ምንባብ</string>
+<string name="permdesc_read_settings">ስንድኦታትን ሓፀርቲ መንገድታትን ኣብ መጀመርታ ንምንባብ ዓዉደሞያ ፍቀድ</string>
+<string name="permlab_write_settings">ናይ መጀመርታ ስንድኦታትን ሐፂር መንገዲ ምፅሓፍ</string>
+<string name="permdesc_write_settings">ስንድኦታትን ሓፀርቲ መንገድታትን ኣብ መጀመርታ ንምቅያር  ዓዉደሞያ ፍቀድ</string>
+<string name="gadget_error_text">ዌጄት ምውራድ ፀገም ኔሩዎ</string>
+<string name="gadget_setup_text">ኣዳልው</string>
+<string name="uninstall_system_app_text">እዚ ስርዓት ዓዉደሞያን ንምርጋፍ  አይክእልን</string>
+<string name="folder_hint_text">ዘይተሰየመ ማህደር</string>
+<string name="default_scroll_format">ገፅ %1$d ናይ %2$d</string>
+<string name="workspace_scroll_format">ናይ መጀመርታ ገፅ ስክሪን %1$d ናይ %2$d</string>
+<string name="first_run_cling_title">እንኳዕ ደሓን መፃእኹም</string>
+<string name="migration_cling_title">ዓዉደ ሞያ ምስልታት ቕዳሕ</string>
+<string name="migration_cling_description">ካብ ዝነበረ ናይ መጀመርታ ስክሪን ኣይከናትን ፎልደራትን ኣእትዉ ?</string>
+<string name="migration_cling_copy_apps">ምስሊ ቕዳሕ</string>
+<string name="migration_cling_use_default">ሓዱሽ ጀምር</string>
+<string name="workspace_cling_longpress_title">መንደቕ ወረቐረቐታት፣ ን ስንድኦታት</string>
+<string name="workspace_cling_longpress_description">ንኻእን ን ንምልማድ ድሕረባይታ ሓዝ</string>
+<string name="workspace_cling_longpress_dismiss">ተረኺቡ</string>
+<string name="folder_opened">ማህደር ተከፊቱ ፣<xliff:g id="width" example="5">%1$d</xliff:g> ብ <xliff:g id="height" example="3">%2$d</xliff:g></string>
+<string name="folder_tap_to_close">ማህደር ንምዕፃዉ ምትንካፍ</string>
+<string name="folder_tap_to_rename">መሊስካ ምስያም ንምቕማጥ ምትንካፍ</string>
+<string name="folder_closed">ማህደር ተዓፂዉ</string>
+<string name="folder_renamed">ማህደር መሊሱ ተሰይሙ<xliff:g id="name" example="Games">%1$s</xliff:g></string>
+<string name="folder_name_format">ማህደር፡ <xliff:g id="name" example="Games">%1$s</xliff:g></string>
+<string name="widget_button_text">ዊድጄት</string>
+<string name="wallpaper_button_text">ናይ መንደቕ ወረቐታት</string>
+<string name="settings_button_text">ስንድኦታት</string>
+<string name="allow_rotation_title">ምሽክርካር ፍቐድ</string>
+<string name="package_state_unknown">ዘይተፈለጠ</string>
+<string name="abandoned_clean_this">ምዉጋድ</string>
+<string name="abandoned_search">ድለ</string>
+<string name="abandoned_promises_title">እዚ ዓዉደ ሞያ ኣይተፅዓነን</string>
+<string name="abandoned_promise_explanation">ዓዉደሞያ ነዚ ኣይከን ኣይተፀዓንን፡፡
+       ምዉጋድ ትኽእል፣ወይ ከዓ ንዓዉደሞያ ድለን ብኢድ ፀዓንን ፡፡</string>
+<string name="action_add_to_workspace">ናብ ናይ መጀመርታ ገፅ ስከሪን ምውሳኽ</string>
+<string name="action_move_here">ዓይነት ኣብዚ ኣንቀሳቅስ</string>
+<string name="item_added_to_workspace">ዓይነት ናብ መጀመርታ ስክሪን ተወሲኹ</string>
+<string name="item_removed">ዓይነት ተወጉዱ</string>
+<string name="action_move">ዓይነት ኣንቀሳቅስ</string>
+<string name="move_to_empty_cell">ናብ ረዉ ኣንቀሳቅስ <xliff:g id="number" example="1">%1$s</xliff:g><xliff:g id="number" example="1">%2$s</xliff:g>ኮሎምን</string>
+<string name="move_to_position">ናብ ኣቅጣጫ ኣንቀሳቅስ<xliff:g id="number" example="1">%1$s</xliff:g></string>
+<string name="move_to_hotseat_position">ናብ ፍታወታት ቦታ ኣንቅሳቅስ<xliff:g id="number" example="1">%1$s</xliff:g></string>
+<string name="item_moved">ዓይነት ተንቀሳቂሱ</string>
+<string name="add_to_folder">ናብ ማህደር ወስኽ: <xliff:g id="name" example="Games">%1$s</xliff:g></string>
+<string name="add_to_folder_with_app">ብ <xliff:g id="name" example="Messenger">%1$s</xliff:g> ናብ ማህደር ወስኽ</string>
+<string name="added_to_folder">ዓይነት ናብ ማህደር ተወሲኹ</string>
+<string name="create_folder_with">ማህደር ፍጠር ብ: <xliff:g id="name" example="Game">%1$s</xliff:g></string>
+<string name="folder_created">ማህደር ተፈጢሩ</string>
+<string name="action_move_to_workspace">ናብ መጀመርታ ስክሪን ኣንቀሳቅስ</string>
+<string name="action_move_screen_left">ስክሪን ናብ ፀገማ ኣንቅሳቅስ</string>
+<string name="action_move_screen_right">ስክሪን ናብ የማን ኣንቀሳቅስ</string>
+<string name="screen_moved">ስክሪን ተንቀሳቂሱ</string>
+<string name="action_resize">መሊስካ መጠን ምልካዓ</string>
+<string name="action_increase_width">ወርዲ ወስኽ</string>
+<string name="action_increase_height">ቁሙት ወስኽ</string>
+<string name="action_decrease_width">ወርዲ ቀንስ</string>
+<string name="action_decrease_height">ቁሙት ቀንስ</string>
+<string name="widget_resized">ዊጄት ናብ ወርዲ<xliff:g id="number" example="2">%1$s</xliff:g> height <xliff:g id="number" example="1">%2$s</xliff:g>ዓብዩ</string>
+</resources>

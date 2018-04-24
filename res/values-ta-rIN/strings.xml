@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+/*
+* Copyright (C) 2008 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="application_name" msgid="5181331383435256801">லாஞ்சர்3</string>
+    <string name="folder_name" msgid="7371454440695724752"></string>
+    <string name="work_folder_name" msgid="3753320833950115786">வேலை</string>
+    <string name="activity_not_found" msgid="8071924732094499514">ஆப் நிறுவப்படவில்லை.</string>
+    <string name="activity_not_available" msgid="7456344436509528827">ஆப் கிடைக்கவில்லை</string>
+    <string name="safemode_shortcut_error" msgid="9160126848219158407">பதிவிறக்கம் பயன்பாடுகள் பாதுகாப்பான மோடில் முடக்கப்பட்டது</string>
+    <string name="safemode_widget_error" msgid="4863470563535682004">பாதுகாப்பான மோடில் விட்ஜெட்ஸ் முடக்கப்பட்டுள்ளது</string>
+    <string name="toggle_weight_watcher" msgid="5645299835184636119">மெமரியை காட்டவும்</string>
+    <string name="long_press_widget_to_add" msgid="7699152356777458215">ஒரு விட்ஜெட்டை எடுப்பதற்கு டச் செய்யவும் மற்றும் பிடிக்கவும்.</string>
+    <string name="widget_dims_format" msgid="2370757736025621599">"%1$d × %2$d"</string>
+    <string name="all_apps_search_bar_hint" msgid="7084713969757597256">ஆப்ஸை தேடவும்</string>
+    <string name="all_apps_loading_message" msgid="7557140873644765180">ஆப்ஸ் ஏற்றுகிறது&#8230;</string>
+    <string name="all_apps_no_search_results" msgid="6332185285860416787">எந்த பொருத்தமான \"<xliff:g id="query" example="Android">%1$s</xliff:g>\" ஆப்ஸும் இல்லை</string>
+    <string name="all_apps_search_market_message" msgid="5470761048755751471"><xliff:g id="query" example="Play Store">%1$s</xliff:g>-க்கு செல்லவும்</string>
+    <string name="out_of_space" msgid="4691004494942118364">இந்த முகப்பு திரையில் மேலும் அறை இல்லை.</string>
+    <string name="hotseat_out_of_space" msgid="7448809638125333693">பிடித்த ட்ரேயில் எந்த போதுமான அறையும் இல்லை</string>
+    <string name="all_apps_button_label" msgid="9110807029020582876">ஆப்ஸ்</string>
+    <string name="all_apps_home_button_label" msgid="252062713717058851">முகப்பு</string>
+    <string name="delete_target_label" msgid="1822697352535677073">அகற்றவும்</string>
+    <string name="delete_target_uninstall_label" msgid="5100785476250872595">நிறுவல்நீக்கம்</string>
+    <string name="info_target_label" msgid="8053346143994679532">ஆப் பற்றிய தகவல்</string>
+    <string name="permlab_install_shortcut" msgid="5632423390354674437">ஷார்கட்களை நிறுவல் செய்யவும்</string>
+    <string name="permdesc_install_shortcut" msgid="923466509822011139">பயன்படுத்துபவர் தலையீடின்றி குறுக்கு வழிகளைச் சேர்க்க பயன்பொருளை அனுமதிக்கவும்.</string>
+    <string name="permlab_read_settings" msgid="1941457408239617576">முதற்பக்க அமைப்புகள் மற்றும் குறுக்கு வழிகளைப் படிக்கவும்</string>
+    <string name="permdesc_read_settings" msgid="5833423719057558387">பயன்பாட்டை முகப்பு அமைப்புகள் மற்றும் ஷார்ட்கட்களை படிக்க அனுமதிக்கிறது.</string>
+    <string name="permlab_write_settings" msgid="3574213698004620587">முதற்பக்க அமைப்புகள் மற்றும் குறுக்கு வழிகளைப் எழுதவும்</string>
+    <string name="permdesc_write_settings" msgid="5440712911516509985">பயன்பாட்டை முகப்பு அமைப்புகள் மற்றும் ஷார்ட்கட்களை மாற்ற அனுமதிக்கிறது.</string>
+    <string name="gadget_error_text" msgid="6081085226050792095">பிரச்சினை ஏற்றும் விட்ஜெட்டை</string>
+    <string name="gadget_setup_text" msgid="8274003207686040488">செட்டப்</string>
+    <string name="uninstall_system_app_text" msgid="4172046090762920660">இது ஒரு சிஸ்டம் ஆப் உள்ளது மற்றும் நிறுவல்நீக்கம் செய்யமுடியாது.</string>
+    <string name="folder_hint_text" msgid="6617836969016293992">பெயரிடப்படாத கோப்புறை</string>
+    <string name="default_scroll_format" msgid="7475544710230993317">பக்கம் %1$d, %2$d விலிருந்து</string>
+    <string name="workspace_scroll_format" msgid="8458889198184077399">முகப்பு திரை %1$d இன் %2$d</string>
+    <string name="first_run_cling_title" msgid="2459738000155917941">வரவேற்கிறோம்</string>
+    <string name="migration_cling_title" msgid="9181776667882933767">உங்களுடைய ஆப் ஐகான்களை நகலெடுக்கவும்</string>
+    <string name="migration_cling_description" msgid="2752413805582227644">உங்களுடைய பழைய முகப்பு திரைகளிலிருந்து ஐக்கான்கள் மற்றும் கோப்புறைகளை இறக்குமதி செய்ய வேண்டுமா?</string>
+    <string name="migration_cling_copy_apps" msgid="946331230090919440">ஐகான்களைக் நகலெடுக்கவும்</string>
+    <string name="migration_cling_use_default" msgid="2626475813981258626">ஃப்ரஷ்சாக தொடங்கவும்</string>
+    <string name="workspace_cling_longpress_title" msgid="9173998993909018310">வால்பேப்ர்கள், விட்ஜெட்கள், மற்றும் அமைப்புகள்</string>
+    <string name="workspace_cling_longpress_description" msgid="4119994475505235248">தனிப்பயனாக்கத்திற்கு டச் மற்றும் பின்னணியை பிடிக்கவும்</string>
+    <string name="workspace_cling_longpress_dismiss" msgid="368660286867640874">கிடைத்துவிட்டது</string>
+    <string name="folder_opened" msgid="94695026776264709">கோப்புறை திறந்து, <xliff:g id="width" example="5">%1$d</xliff:g> மூலம் <xliff:g id="height" example="3">%2$d</xliff:g></string>
+    <string name="folder_tap_to_close" msgid="1884479294466410023">கோப்புறையை மூட தொடவும்</string>
+    <string name="folder_tap_to_rename" msgid="9191075570492871147">மறுபெயர் சேமிக்க தொடவும்</string>
+    <string name="folder_closed" msgid="4100806530910930934">கோப்புறை மூடப்பட்டது</string>
+    <string name="folder_renamed" msgid="1794088362165669656">கோப்புறையின் பெயர் <xliff:g id="name" example="Games">%1$s</xliff:g> ஆக மறுபெயரிடப்பட்டது</string>
+    <string name="folder_name_format" msgid="6629239338071103179">கோப்புறை: <xliff:g id="name" example="Games">%1$s</xliff:g></string>
+    <string name="widget_button_text" msgid="2880537293434387943">விட்ஜெட்கள்</string>
+    <string name="wallpaper_button_text" msgid="8404103075899945851">வால்பேப்பர்கள்</string>
+    <string name="settings_button_text" msgid="8119458837558863227">அமைப்புகள்</string>
+    <string name="allow_rotation_title" msgid="2118706734511831751">சுழற்சியை அனுமதிக்கவும்</string>
+    <string name="package_state_unknown" msgid="7592128424511031410">தெரியாத</string>
+    <string name="abandoned_clean_this" msgid="7610119707847920412">அகற்றவும்</string>
+    <string name="abandoned_search" msgid="891119232568284442">தேடல்</string>
+    <string name="abandoned_promises_title" msgid="7096178467971716750">இந்த ஆப் நிறுவப்படவில்லை</string>
+    <string name="abandoned_promise_explanation" msgid="3990027586878167529">ஆப்புக்கான இந்த ஐக்கான் நிறுவப்படவில்லை, உங்களால் அகற்ற முடியும், அல்லது ஆப்புக்காக தேடவும் மற்றும் கைமுறையாக நிறுவவும்.</string>
+    <string name="action_add_to_workspace" msgid="8902165848117513641">முகப்பு திரையில் சேர்க்கவும்</string>
+    <string name="action_move_here" msgid="2170188780612570250">இங்கே உருப்படியை நகர்த்தவும்</string>
+    <string name="item_added_to_workspace" msgid="4211073925752213539">உருப்படியில் முகப்புத் திரை சேர்க்கப்பட்டது</string>
+    <string name="item_removed" msgid="851119963877842327">உருப்படி அகற்றப்பட்டது</string>
+    <string name="action_move" msgid="4339390619886385032">உருப்படியை நகர்த்தவும்</string>
+    <string name="move_to_empty_cell" msgid="2833711483015685619">வரிசை <xliff:g id="number" example="1">%1$s</xliff:g> நெடுவரிசை <xliff:g id="number" example="1">%2$s</xliff:g>-க்கு நகர்த்தவும்</string>
+    <string name="move_to_position" msgid="6750008980455459790">பொசிஷன் <xliff:g id="number" example="1">%1$s</xliff:g>-க்கு நகர்த்தவும்</string>
+    <string name="move_to_hotseat_position" msgid="6295412897075147808">பிடித்த பொசிஷன் <xliff:g id="number" example="1">%1$s</xliff:g>-க்கு நகர்த்தவும்</string>
+    <string name="item_moved" msgid="4606538322571412879">உருப்படி நகர்த்தப்பட்டது</string>
+    <string name="add_to_folder" msgid="9040534766770853243">கோப்புறையில் சேர்க்கவும்: <xliff:g id="name" example="Games">%1$s</xliff:g></string>
+    <string name="add_to_folder_with_app" msgid="4534929978967147231"><xliff:g id="name" example="Messenger">%1$s</xliff:g> உடன் கோப்புறையில் சேர்க்கவும்</string>
+    <string name="added_to_folder" msgid="4793259502305558003">உருப்படி கோப்புறையில் சேர்க்கப்பட்டது</string>
+    <string name="create_folder_with" msgid="4050141361160214248">உடன் கோப்புறையை உருவாக்கவும்: <xliff:g id="name" example="Game">%1$s</xliff:g></string>
+    <string name="folder_created" msgid="6409794597405184510">கோப்புறை உருவாக்கப்பட்டது</string>
+    <string name="action_move_to_workspace" msgid="1603837886334246317">முகப்புத் திரைக்கு நகர்த்தவும்</string>
+    <string name="action_move_screen_left" msgid="8854216831569401665">இடது பக்கம் திரையை நகர்த்தவும்</string>
+    <string name="action_move_screen_right" msgid="329334910274311123">வலது பக்கம் திரையை நகர்த்தவும்</string>
+    <string name="screen_moved" msgid="266230079505650577">திரை நகர்த்தப்பட்டது</string>
+    <string name="action_resize" msgid="1802976324781771067">மறுஅளவு</string>
+    <string name="action_increase_width" msgid="8773715375078513326">அகலத்தை அதிகரிக்கவும்</string>
+    <string name="action_increase_height" msgid="459390020612501122">உயரத்தை குறைக்கவும்</string>
+    <string name="action_decrease_width" msgid="1374549771083094654">அகலத்தை குறைக்கவும்</string>
+    <string name="action_decrease_height" msgid="282377193880900022">உயரத்தை குறைக்கவும்</string>
+    <string name="widget_resized" msgid="9130327887929620">அகலம் <xliff:g id="number" example="2">%1$s</xliff:g> உயரம் <xliff:g id="number" example="1">%2$s</xliff:g>-க்கு விட்ஜெட் மறுஅளவிடப்பட்டது</string>
+<string name="choose_wallpaper_type">வால்பேப்பர் வகையை தேர்ந்தெடுக்கவும்</string>
+<string name="lock_screen_wallpaper_type">ஸ்க்ரீன் வால்பேப்பரை லாக் செய்யவும்</string>
+<string name="home_screen_wallpaper_type">முகப்புத் திரை வால்பேப்பர்</string>
+<string name="alphabetical">அகரவரிசை</string>
+<string name="most_used">மிகவும் பயன்படுத்தப்பட்டது</string>
+<string name="recently_installed">சமீபத்தில் நிறுவப்பட்டது</string>
+<string name="arrange_by">மூலம் வரிசைப்படுத்தவும்</string>
+<string name="selece_wallpaper_from">இதிலிருந்து வால்பேப்பரை தேர்ந்தெடுக்கவும்</string>
+<string name="choose_lock_screen_wallpaper">லாக் திரை வால்பேப்பரை தேர்ந்தெடுக்கவும்</string>
+<string name="choose_home_screen_wallpaper">முகப்புத் திரை வால்பேப்பரை தேர்ந்தெடுக்கவும்</string>
+<string name="choose_from_wallpaper">வால்பேப்பர்</string>
+<string name="choose_from_gallery">கேலரி</string>
+<string name="choose_from_live_wallpaper">லைவ் வால்பேப்பர்</string>
+<string name="choose_from_video_wallpaper">வீடியோ வால்பேப்பர்கள்</string>
+<string name="select_wallpaper">வால்பேப்பரை தேர்ந்தெடுக்கவும்</string>
+<string name="set_wallpaper">வால்பேப்பரை அமைக்கவும்</string>
+<string name="set_wallpaper_successfull">வால்பேப்பர் அமைத்தல் வெற்றி</string>
+<string name="custom_sort">தனிபயனை வரிசைப்படுத்தவும்</string>
+<string name="add_to_homesreen">முகப்பு திரையில் சேர்க்கவும்</string>
+<string name="set_home_wallpaper">முகப்பு வால்பேப்பர்</string>
+<string name="set_keyguard_wallpaper">பூட்டவும் வால்பேப்பர்</string>
+<string name="set_both_wallpaper">இரண்டும்</string>
+<string name="default_sort">இயல்புநிலை வரிசையை மீட்டெடுக்கவும்</string>
+</resources>

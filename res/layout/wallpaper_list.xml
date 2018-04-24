@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@android:color/black">
+    <include layout="@layout/wallpaper_actionbar"
+        android:id="@+id/listbar"/>
+    <GridView 
+        android:id="@+id/wallpaper_preview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:numColumns="3"
+        android:scrollbars="vertical"
+        android:gravity="center"
+        android:paddingTop="2dp">
+        
+    </GridView>
+    
+
+</LinearLayout>

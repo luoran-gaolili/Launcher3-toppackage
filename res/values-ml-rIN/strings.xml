@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+/*
+* Copyright (C) 2008 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="application_name" msgid="5181331383435256801">ലോഞ്ചര്‍3</string>
+    <string name="folder_name" msgid="7371454440695724752"></string>
+    <string name="work_folder_name" msgid="3753320833950115786">ജോലി</string>
+    <string name="activity_not_found" msgid="8071924732094499514">ആപ്ലിക്കേഷൻ ഇൻസ്‌റ്റാൾ ചെയ്‌തിട്ടില്ല.</string>
+    <string name="activity_not_available" msgid="7456344436509528827">അപ്ലിക്കേഷൻ ലഭ്യമല്ല</string>
+    <string name="safemode_shortcut_error" msgid="9160126848219158407">സേഫ് മോഡിൽ ഡൌൺലോഡ് ചെയ്ത ആപ്ലിക്കേഷനുകള്‍ അപ്രാപ്തമാക്കി</string>
+    <string name="safemode_widget_error" msgid="4863470563535682004">സേഫ് മോഡിൽ വിഡ്ജറ്റുകൾ അപ്രാപ്തമാക്കി</string>
+    <string name="toggle_weight_watcher" msgid="5645299835184636119">മെമ്മറി കാണിക്കുക</string>
+    <string name="long_press_widget_to_add" msgid="7699152356777458215">ഒരു വിഡ്ജറ്റ് എടുക്കുന്നതിന് അമർത്തിപ്പിടിക്കുക.</string>
+    <string name="widget_dims_format" msgid="2370757736025621599">"%1$d × %2$d"</string>
+    <string name="all_apps_search_bar_hint" msgid="7084713969757597256">തിരയല്‍ ആപ്പുകള്‍</string>
+    <string name="all_apps_loading_message" msgid="7557140873644765180">ആപ്പ്സ് ലോഡ് ചെയ്യുന്നു&#8230;</string>
+    <string name="all_apps_no_search_results" msgid="6332185285860416787">\"<xliff:g id="query" example="Android">%1$s</xliff:g>\" നോട് പൊരുത്തമുള്ള ആപ്പ്സ് കണ്ടെത്തിയില്ല</string>
+    <string name="all_apps_search_market_message" msgid="5470761048755751471"><xliff:g id="query" example="Play Store">%1$s</xliff:g> ലേക്ക് പോകുക</string>
+    <string name="out_of_space" msgid="4691004494942118364">ഈ ഹോം സ്ക്രീനില്‍ ഇനി ഇടമില്ല.</string>
+    <string name="hotseat_out_of_space" msgid="7448809638125333693">ഫേവറൈറ്റ് ട്രേയിൽ കൂടുതല്‍ അറകള്‍ ഇല്ല</string>
+    <string name="all_apps_button_label" msgid="9110807029020582876">ആപ്പ്സ്</string>
+    <string name="all_apps_home_button_label" msgid="252062713717058851">ഹോം</string>
+    <string name="delete_target_label" msgid="1822697352535677073">നീക്കം ചെയ്യുക</string>
+    <string name="delete_target_uninstall_label" msgid="5100785476250872595">അണ്‍ഇന്‍സ്റ്റാള്‍ ചെയ്യുക</string>
+    <string name="info_target_label" msgid="8053346143994679532">ആപ്പ് വിവരം</string>
+    <string name="permlab_install_shortcut" msgid="5632423390354674437">ഷോര്‍ട്ട്കട്ടുകള്‍ ഇന്‍സ്റ്റാള്‍ ചെയ്യുക</string>
+    <string name="permdesc_install_shortcut" msgid="923466509822011139">ഉപയോക്താവിന്‍റ ഇടപെടല്‍ ഇല്ലാതെ കുറുക്കുവഴികള്‍ ചേര്‍ക്കാന്‍ ആപ്പിനെ അനുവദിക്കുന്നു.</string>
+    <string name="permlab_read_settings" msgid="1941457408239617576">ഹോം സെറ്റിംങ്സും കുറുക്കുവഴികളും വായിക്കുക</string>
+    <string name="permdesc_read_settings" msgid="5833423719057558387">ഹോമില്‍ സെറ്റിംഗ്സും ഷോര്‍ട്ട്കട്ടുകളും റീഡ് ചെയ്യാന്‍ ആപ്പിനെ അനുവദിക്കുക.</string>
+    <string name="permlab_write_settings" msgid="3574213698004620587">ഹോം സെറ്റിംങ്സും കുറുക്കുവഴികളും എഴുതുക</string>
+    <string name="permdesc_write_settings" msgid="5440712911516509985">ഹോമില്‍ സെറ്റിംഗ്സും ഷോര്‍ട്ട്കട്ടുകളും മാറ്റാന്‍ ആപ്പിനെ അനുവദിക്കുന്നു.</string>
+    <string name="gadget_error_text" msgid="6081085226050792095">പ്രശ്നം ലോഡ് ചെയ്യുന്ന വിഡ്ജറ്റ്</string>
+    <string name="gadget_setup_text" msgid="8274003207686040488">സെറ്റപ്പ്</string>
+    <string name="uninstall_system_app_text" msgid="4172046090762920660">ഇതൊരു സിസ്റ്റം ആപ് ആണ് കൂടാതെ ഇത് അണ്‍ഇന്‍സ്റ്റാള്‍ ചെയ്യാന്‍ കഴിയില്ല.</string>
+    <string name="folder_hint_text" msgid="6617836969016293992">പേരിടാത്ത ഫോള്‍ഡര്‍</string>
+    <string name="default_scroll_format" msgid="7475544710230993317">%1$d യുടെ പേജ് %2$d</string>
+    <string name="workspace_scroll_format" msgid="8458889198184077399">%1$d യുടെ ഹോംസ്ക്രീന്‍ %2$d</string>
+    <string name="first_run_cling_title" msgid="2459738000155917941">സ്വാഗതം</string>
+    <string name="migration_cling_title" msgid="9181776667882933767">നിങ്ങളുടെ ആപ്പ് ഐക്കണുകൾ കോപ്പി ചെയ്യുക</string>
+    <string name="migration_cling_description" msgid="2752413805582227644">നിങ്ങളുടെ പഴയ ഹോം സ്ക്രീനുകളിൽ നിന്നും ഐക്കണുകളും ഫോൾഡറുകളും ഇംപോര്‍ട്ട്‌ ചെയ്യണോ?</string>
+    <string name="migration_cling_copy_apps" msgid="946331230090919440">കോപ്പി ഐക്കണുകൾ</string>
+    <string name="migration_cling_use_default" msgid="2626475813981258626">പുതിയ ആരംഭം</string>
+    <string name="workspace_cling_longpress_title" msgid="9173998993909018310">വാൾപേപ്പറുകൾ, വിജറ്റുകൾ&amp;സെറ്റിംഗ്സ്</string>
+    <string name="workspace_cling_longpress_description" msgid="4119994475505235248">കസ്റ്റമൈസ് ചെയ്യുന്നതിന് ബാക്ക്ഗ്രൌണ്ടില്‍ അമര്‍ത്തിപ്പിടിക്കുക</string>
+    <string name="workspace_cling_longpress_dismiss" msgid="368660286867640874">മനസ്സിലായി</string>
+    <string name="folder_opened" msgid="94695026776264709">ഫോൾഡർ തുറന്നു, <xliff:g id="height" example="3">%2$d</xliff:g> മുഖേന <xliff:g id="width" example="5">%1$d</xliff:g></string>
+    <string name="folder_tap_to_close" msgid="1884479294466410023">ഫോള്‍ഡര്‍ അടക്കുവാനായി തൊടുക</string>
+    <string name="folder_tap_to_rename" msgid="9191075570492871147">പുനര്‍നാമകരണം കാണുവാനായി തൊടുക</string>
+    <string name="folder_closed" msgid="4100806530910930934">ഫോള്‍ഡര്‍ അടച്ചു</string>
+    <string name="folder_renamed" msgid="1794088362165669656">ഫോള്‍ഡര്‍ <xliff:g id="name" example="Games">%1$s</xliff:g> ലേക്ക് നാമകരണം ചെയ്തു</string>
+    <string name="folder_name_format" msgid="6629239338071103179">ഫോള്‍ഡര്‍: <xliff:g id="name" example="Games">%1$s</xliff:g></string>
+    <string name="widget_button_text" msgid="2880537293434387943">വിഡ്ജറ്റ്</string>
+    <string name="wallpaper_button_text" msgid="8404103075899945851">വോൾപേപ്പറുകൾ</string>
+    <string name="settings_button_text" msgid="8119458837558863227">സെറ്റിംഗ്സ്</string>
+    <string name="allow_rotation_title" msgid="2118706734511831751">റൊട്ടേഷൻ അനുവദിക്കുക</string>
+    <string name="package_state_unknown" msgid="7592128424511031410">അജ്ഞാതം</string>
+    <string name="abandoned_clean_this" msgid="7610119707847920412">നീക്കം ചെയ്യുക</string>
+    <string name="abandoned_search" msgid="891119232568284442">തിരയുക</string>
+    <string name="abandoned_promises_title" msgid="7096178467971716750">ഈ ആപ്പ് ഇൻസ്റ്റാൾ ചെയ്തിട്ടില്ല</string>
+    <string name="abandoned_promise_explanation" msgid="3990027586878167529">ഈ ഐക്കണിന് വേണ്ടിയുള്ള ആപ്പ് ഇന്‍സ്റ്റാള്‍ ചെയ്തിട്ടില്ല. നിങ്ങള്‍ക്ക് അത് നീക്കം ചെയ്യാന്‍ സാധിക്കുന്നതാണ്, അല്ലെങ്കില്‍ ആപ്പിന് വേണ്ടി തിരയുകയും ഇന്‍സ്റ്റാള്‍ ചെയ്യുവാനും സാധിക്കുന്നതാണ്.</string>
+    <string name="action_add_to_workspace" msgid="8902165848117513641">ഹോം സ്ക്രീനിലേക്ക് ചേര്‍ക്കുക</string>
+    <string name="action_move_here" msgid="2170188780612570250">ഐറ്റം ഇവിടേക്ക് നീക്കുക</string>
+    <string name="item_added_to_workspace" msgid="4211073925752213539">ഹോം സ്ക്രീനിൽ ഐറ്റം ചേർത്തു</string>
+    <string name="item_removed" msgid="851119963877842327">ഐറ്റം നീക്കം ചെയ്തു</string>
+    <string name="action_move" msgid="4339390619886385032">ഐറ്റം നീക്കുക</string>
+    <string name="move_to_empty_cell" msgid="2833711483015685619">നിര <xliff:g id="number" example="1">%1$s</xliff:g> കോളം <xliff:g id="number" example="1">%2$s</xliff:g> ലേക്ക് നീക്കുക</string>
+    <string name="move_to_position" msgid="6750008980455459790">പൊസിഷൻ <xliff:g id="number" example="1">%1$s</xliff:g> ലേക്ക് നീക്കുക</string>
+    <string name="move_to_hotseat_position" msgid="6295412897075147808">ഫേവറൈറ്റ്സ് പൊസിഷൻ <xliff:g id="number" example="1">%1$s</xliff:g> ലേക്ക് നീക്കുക</string>
+    <string name="item_moved" msgid="4606538322571412879">ഐറ്റം നീക്കി</string>
+    <string name="add_to_folder" msgid="9040534766770853243">ഫോൾഡറിൽ ചേർക്കുക: <xliff:g id="name" example="Games">%1$s</xliff:g></string>
+    <string name="add_to_folder_with_app" msgid="4534929978967147231"><xliff:g id="name" example="Messenger">%1$s</xliff:g> ലെ ഫോൾഡറിൽ ചേർക്കുക</string>
+    <string name="added_to_folder" msgid="4793259502305558003">ഫോൾഡറിൽ ഐറ്റം ചേർത്തു</string>
+    <string name="create_folder_with" msgid="4050141361160214248">ഇതുമായി ഫോൾഡർ സൃഷ്ടിക്കുക: <xliff:g id="name" example="Game">%1$s</xliff:g></string>
+    <string name="folder_created" msgid="6409794597405184510">ഫോൾഡർ സൃഷ്ടിച്ചു</string>
+    <string name="action_move_to_workspace" msgid="1603837886334246317">ഹോം സ്ക്രീനിലേക്ക് നീക്കുക</string>
+    <string name="action_move_screen_left" msgid="8854216831569401665">സ്ക്രീൻ ഇടത്തേക്ക് നീക്കുക</string>
+    <string name="action_move_screen_right" msgid="329334910274311123">സ്ക്രീൻ വലത്തേക്ക് നീക്കുക</string>
+    <string name="screen_moved" msgid="266230079505650577">സ്ക്രീൻ നീക്കി</string>
+    <string name="action_resize" msgid="1802976324781771067">രൂപഭേദം</string>
+    <string name="action_increase_width" msgid="8773715375078513326">വീതി കൂട്ടുക</string>
+    <string name="action_increase_height" msgid="459390020612501122">ഉയരം കൂട്ടുക</string>
+    <string name="action_decrease_width" msgid="1374549771083094654">വീതി കുറക്കുക</string>
+    <string name="action_decrease_height" msgid="282377193880900022">ഉയരം കുറയ്ക്കുക</string>
+    <string name="widget_resized" msgid="9130327887929620">വിഡ്ജറ്റ് റീസൈസ് ചെയ്തിരിക്കുന്നു വീതി<xliff:g id="number" example="2">%1$s</xliff:g> ഉയരം<xliff:g id="number" example="1">%2$s</xliff:g></string>
+<string name="choose_wallpaper_type">വോൾപേപ്പർ ടൈപ്പ് തിരഞ്ഞെടുക്കുക</string>
+<string name="lock_screen_wallpaper_type">ലോക്ക് സ്ക്രീന്‍ വാള്‍പേപ്പര്‍</string>
+<string name="home_screen_wallpaper_type">ഹോം സ്ക്രീൻ വോൾപേപ്പർ</string>
+<string name="alphabetical">അക്ഷരക്രമത്തിൽ</string>
+<string name="most_used">ഏറ്റവും ഉപയോഗിച്ചത്</string>
+<string name="recently_installed">ഇയ്യിടെ ഇൻസ്റ്റോൾ ചെയ്തത്</string>
+<string name="arrange_by">ഇപ്രകാരം ക്രമീകരിക്കുക</string>
+<string name="selece_wallpaper_from">വാള്‍പേപ്പര്‍ തിരഞ്ഞെടുക്കുക</string>
+<string name="choose_lock_screen_wallpaper">ലോക്ക് സ്ക്രീൻ വോൾപേപ്പർ തിരഞ്ഞെടുക്കുക</string>
+<string name="choose_home_screen_wallpaper">ഹോം സ്ക്രീൻ വോൾപേപ്പർ തിരഞ്ഞെടുക്കുക</string>
+<string name="choose_from_wallpaper">വോൾപേപ്പര്‍</string>
+<string name="choose_from_gallery">ഗാലറി</string>
+<string name="choose_from_live_wallpaper">സജീവമായ വാള്‍പേപ്പര്‍</string>
+<string name="choose_from_video_wallpaper">വീഡിയോ വാൾപേപ്പർ</string>
+<string name="select_wallpaper">വോൾപേപ്പർ തിരഞ്ഞെടുക്കുക</string>
+<string name="set_wallpaper">വോള്‍പേപ്പര്‍ സെറ്റ് ചെയ്യുക</string>
+<string name="set_wallpaper_successfull">വാൾപേപ്പർ സെറ്റ് ചെയ്യുന്നത് വിജയകരം</string>
+<string name="custom_sort">കസ്റ്റം സോർട്ട്</string>
+<string name="add_to_homesreen">ഹോം സ്ക്രീനിലേക്ക് ചേര്‍ക്കുക</string>
+<string name="set_home_wallpaper">ഹോം വോൾപേപ്പർ</string>
+<string name="set_keyguard_wallpaper">ലോക്ക് വാള്‍പേപ്പര്‍</string>
+<string name="set_both_wallpaper">രണ്ടും</string>
+<string name="default_sort">ഡിഫോൾട്ട് സോർട്ട് റീസ്റ്റോർ ചെയ്യുക</string>
+</resources>

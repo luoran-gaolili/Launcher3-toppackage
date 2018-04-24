@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="weeks_array">
+<item>Dilbata</item>
+<item>Wiixata</item>
+<item>Kibxata</item>
+<item>Roobii</item>
+<item>Kamisa</item>
+<item>Jimaata</item>
+<item>Sanbata</item>
+</string-array>
+</resources>

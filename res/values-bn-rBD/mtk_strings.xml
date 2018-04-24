@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="one_video_widget">হোমস্ক্রীনে শুধুমাত্র একটি \"<xliff:g id="name" example="video player">%s</xliff:g>\" অনুমতি দেওয়া হবে.</string>
+<string name="orientation">ওরিয়েণ্টেশন শনাক্ত করা যাবে না.</string>
+<string name="shortcut_array_installed"><xliff:g id="count" example="3">%1$d</xliff:g> শর্টকাট তৈরি করা হয়েছে.</string>
+<string name="shortcut_install_failed"><xliff:g id="name" example="Xiaoming">%1$s</xliff:g>\"এর শর্টকার্ট তৈরি করায় ব্যর্থ.</string>
+<string name="shortcut_array_install_failed"><xliff:g id="count" example="3">%1$d</xliff:g> শর্টকাট তৈরি করতে বিফল.</string>
+<string name="shortcut_array_duplicate"><xliff:g id="count" example="3">%1$d</xliff:g>শর্টকাট আগে থেকেই আছে.</string>
+<string name="rearrange_app">অ্যাপ নতুন করে সাজান</string>
+<string name="hideapps">অ্যাপ লুকান</string>
+<string name="app_custom_edit">এডিট করুন</string>
+<string name="app_custom_hide">লুকান</string>
+<string name="edit_app_button_text">অ্যাপগুলি এডিট করুন</string>
+<string name="hide_app_button_text">অ্যাপ লুকান</string>
+</resources>

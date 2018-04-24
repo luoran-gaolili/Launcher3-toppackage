@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/wallpaper_actionbar_height"
+    android:orientation="horizontal" 
+    android:background="@color/actionbar_background_color"
+    android:gravity="center_vertical">
+    <LinearLayout 
+        android:layout_width="wrap_content"
+    	android:layout_height="@dimen/wallpaper_actionbar_height"
+    	android:orientation="horizontal" 
+    	android:background="@drawable/layout_actionbar"
+    	android:gravity="center_vertical"
+    	android:id="@+id/barlayout">
+        <ImageView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_back"
+        android:layout_gravity="center"/>
+    	<TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/wallpaper_actionbar_text_size"
+        android:textColor="@android:color/white"
+        android:id="@+id/bartitle"
+        android:gravity="center_horizontal"/>
+    </LinearLayout>
+
+</LinearLayout>

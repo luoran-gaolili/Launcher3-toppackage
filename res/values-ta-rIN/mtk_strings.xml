@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="one_video_widget">ஒன்று மட்டும்\"<xliff:g id="name" example="video player">%s</xliff:g>\"முகப்பு திரையில் அனுமதிக்கப்படுகிறது.</string>
+<string name="orientation">நோக்குநிலையை கண்டறிய முடியாது.</string>
+<string name="shortcut_array_installed"><xliff:g id="count" example="3">%1$d</xliff:g> குறுக்குவழிகள் உருவாக்கப்பட்டது.</string>
+<string name="shortcut_install_failed"><xliff:g id="name" example="Xiaoming">%1$s</xliff:g>\" குறுக்குவழியை உருவாக்குவது தோல்வி.</string>
+<string name="shortcut_array_install_failed"><xliff:g id="count" example="3">%1$d</xliff:g> குறுக்குவழிகளை உருவாக்க தவறிவிட்டது.</string>
+<string name="shortcut_array_duplicate"><xliff:g id="count" example="3">%1$d</xliff:g> குறுக்குவழிகள் ஏற்கனவே இருக்கின்றன.</string>
+<string name="rearrange_app">மறுசீரமைக்கும் ஆப்ஸ்</string>
+<string name="hideapps">ஆப்ஸை மறைக்கவும்</string>
+<string name="app_custom_edit">திருத்தவும்</string>
+<string name="app_custom_hide">மறைக்கவா</string>
+<string name="edit_app_button_text">ஆப்ஸைத் திருத்தவும்</string>
+<string name="hide_app_button_text">ஆப்ஸை மறைக்கவும்</string>
+</resources>

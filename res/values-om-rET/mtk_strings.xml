@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="one_video_widget">Argii ka\'umsa irraa kan eeyyamamu\"<xliff:g id="name" example="video player">%s</xliff:g>\" tokko qofaa dha.</string>
+<string name="orientation">Taa\'umsa addaan hin baasu.</string>
+<string name="shortcut_array_installed">Qaxxaamurooni <xliff:g id="count" example="3">%1$d</xliff:g> uumamaniru.</string>
+<string name="shortcut_install_failed">Qaxxaamura \"<xliff:g id="name" example="Xiaoming">%1$s</xliff:g>\" uumuun hin taane.</string>
+<string name="shortcut_array_install_failed">Qaxxaamuroota <xliff:g id="count" example="3">%1$d</xliff:g> uumuun hin taane.</string>
+<string name="shortcut_array_duplicate">Qaxxaamuroonni <xliff:g id="count" example="3">%1$d</xliff:g> duraanuu jiru.</string>
+<string name="rearrange_app">App irra deebiin mijeessi</string>
+<string name="hideapps">Apps dhoksi</string>
+<string name="app_custom_edit">Gulalii</string>
+<string name="app_custom_hide">Dhoksi</string>
+<string name="edit_app_button_text">Apps gulaali</string>
+<string name="hide_app_button_text">Apps dhoksi</string>
+</resources>
